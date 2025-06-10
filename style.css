@@ -1,0 +1,10 @@
+body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0; }
+header { background-color: #333; color: white; padding: 10px 0; }
+.container { width: 90%; margin: auto; display: flex; justify-content: space-between; align-items: center; }
+nav ul { list-style: none; display: flex; gap: 15px; }
+nav ul li a { color: white; text-decoration: none; }
+.hero { padding: 40px; background-color: #007BFF; color: white; text-align: center; }
+.produtos { padding: 20px; }
+.produto { background: white; padding: 15px; margin: 10px 0; border-radius: 5px; }
+.btn { background: #28a745; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; }
+footer { text-align: center; padding: 15px; background: #222; color: white; }
